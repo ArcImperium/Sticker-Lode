@@ -13,7 +13,7 @@ function Home() {
                 <a href="/calculator">Calculator</a>
             </div>
             <div className="projectcard" >
-                <a href="/new">New Project?</a>
+                <a href="/todo">To Do List</a>
             </div>
         </>
     )
